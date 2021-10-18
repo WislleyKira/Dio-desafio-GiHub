@@ -14,3 +14,4 @@ git push origin master/main - puxa os arquivos para nuvem
 colchetes [ ] md - coloque o texto e ( ) parenteses coloque o link
 git clone + link https - clona do github para o git bash
 git add * ou git add . - adiciona todos os arquivos ao git
+git rm -r Deleta uma pasta ou arquivo
