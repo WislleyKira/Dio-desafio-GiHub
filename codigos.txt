@@ -1,5 +1,10 @@
-ls ou dir - mostra os arquivos dentro de pasta, ou pastas dentro de pastas
-ctrl+L - limpa histórico
+
+
+## Esses são os códigos que vão ser muito úteis para vocês. :dvd:
+
+![gif zuera](C:\Users\wisll\Downloads\gif zuera.gif)
+
+ls ou dir - mostra os arquivos dentro de pasta, ou pastas dentro de pastas ctrl+L - limpa histórico
 git status - olha os estágios do ciclo
 mkdir - cria uma pasta
 mv + nome da pasta - move arquivos para outras pastas
